@@ -21,7 +21,7 @@ A lightweight file launcher utility that helps you quickly access frequently use
 
 2. **Quick Start**
    ```bash
-   git clone https://github.com/yourusername/file-launcher.git
+   git clone https://github.com/Irobot-chf/File-Launcher-for-Windows.git
    cd file-launcher
 ## Configuration 🛠️
 Create/edit launcher_config.txt in UTF-8 encoding:
